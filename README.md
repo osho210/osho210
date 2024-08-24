@@ -1,8 +1,11 @@
 ## Hi there 👋
-
+<div style="display: flex;">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osho210&https://github.com/anuraghazra/github-readme-stats" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=osho210&show_icons=true&theme=transparent" />
+</div>
 <!--
 **osho210/osho210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://github-readme-stats.vercel.app/api/top-langs?username=osho210&show_icons=true&locale=en&layout=compact)
+
 
 Here are some ideas to get you started:
 
